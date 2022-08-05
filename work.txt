@@ -5,6 +5,6 @@ four
 five
 five2
 six
-7
-8
+seven
+eighT
 9
